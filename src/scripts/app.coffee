@@ -1,0 +1,2 @@
+# Global State 
+window.PurpleIRC = {}
